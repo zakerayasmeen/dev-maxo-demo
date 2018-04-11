@@ -3,7 +3,7 @@
   <groupId>com.maxo</groupId>
   <artifactId>maxotech</artifactId>
   <packaging>jar</packaging>
-  <version>1.{ BUILD_NUMBER }</version>
+  <version>1.${BUILD_NUMBER}</version>
 
   <properties>
     <maven.compiler.source>7</maven.compiler.source>
